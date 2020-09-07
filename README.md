@@ -21,5 +21,6 @@ Combination of gate-level, dataflow and behavioural modelling.
 - Memory Access (MEM)
 - Writeback (WB)
 
-- Data Forwarding Unit to partially resolve hazards in R-type instructions.
-- Hazard Detection Unit to insert stalls (nop cycles) wherever required.
+Data Forwarding Unit to partially resolve hazards in R-type instructions.
+
+Hazard Detection Unit to insert stalls (nop cycles) wherever required.
